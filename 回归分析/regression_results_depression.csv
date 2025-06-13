@@ -1,0 +1,18 @@
+Feature,Coefficient
+City,-0.06200568738957602
+Gender_Male,-0.38947814858785135
+Age_group_≤14 years,-0.605217533677578
+Family_income_Middle,-0.3484272397029141
+Family_income_Poor,0.7214557740184959
+Family_income_Upper Middle,-0.773805896208627
+Family_income_Very Rich,-0.6649717338711508
+Parents_relationship_Harmonious,-1.305131967207342
+Parents_relationship_Not Harmonious,0.3939718465815411
+Parents_relationship_Very Harmonious,-3.556070733378051
+Parents_relationship_Very Not Harmonious,1.250600284383369
+Sleepduration_≤7 hours,1.7505571644969784
+Depression_risk_Low Risk,-9.62214983812692
+Anxiety_risk_Low Risk,-3.5288891015902166
+Intercept,22.102421814986254
+Mean Squared Error,14.575709980307115
+R^2 Score,0.4380579351816357
